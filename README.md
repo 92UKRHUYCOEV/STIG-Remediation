@@ -4,4 +4,13 @@
 <img width="600" height="340" alt="STIG Remediation_NEW2" src="https://github.com/user-attachments/assets/0259dae7-4e5e-4053-ad19-1f5a2621fb98" />
 </div>
 
-- [Windows (PowerShell)](https://github.com/Goodka7/STIG-Remediation/tree/main/windows)
+- [WN10-00-000031](./WN10-00-000031/README.md)
+- [WN10-AU-000500](./WN10-AU-000500/README.md)
+- [WN10-CC-000005](./WN10-CC-000005/README.md)
+- [WN10-CC-000052](./WN10-CC-000052/README.md)
+- [WN10-CC-000175](./WN10-CC-000175/README.md)
+- [WN10-CC-000205](./WN10-CC-000205/README.md)
+- [WN10-CC-000295](./WN10-CC-000295/README.md)
+- [WN10-CC-000326](./WN10-CC-000326/README.md)
+- [WN10-CC-000370](./WN10-CC-000370/README.md)
+- [WN10-SO-000030](./WN10-SO-000030/README.md)
