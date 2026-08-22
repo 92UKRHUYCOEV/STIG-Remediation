@@ -14,8 +14,6 @@
     Date Created    : 04-22-26
     Last Modified   : 08-22-26
     Version         : 1.1
-    CVEs            : N/A
-    Plugin IDs      : N/A
     STIG-ID         : WN11-CC-000315
     Severity        : High (CAT I)
     Reference       : https://stigaview.com/products/win11/v2r8/WN11-CC-000315/
