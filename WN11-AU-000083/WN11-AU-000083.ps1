@@ -16,7 +16,7 @@
     Version         : 1.1
     STIG-ID         : WN11-AU-000083
     Severity        : Medium (CAT II)
-    Documentation   : https://stigaview.com/products/win11/v2r7/WN11-AU-000083/
+    Reference       : https://stigaview.com/products/win11/v2r7/WN11-AU-000083/
 #>
 
 $subcategoryName = "Other Object Access Events"
