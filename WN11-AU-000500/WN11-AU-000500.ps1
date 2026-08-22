@@ -8,12 +8,12 @@
     due to inadequate log size and ensuring sufficient historical data for security investigations.
 
 .NOTES
-    Author          : Michael Kirby
-    LinkedIn        : https://www.linkedin.com/in/wmkirby/
-    GitHub          : https://github.com/MichaelKirbyIT
-    Date Created    : 2026-05-15
-    Last Modified   : 2026-05-15
-    Version         : 1.0
+    Author          : Sallie Chait
+    LinkedIn        : https://www.linkedin.com/in/sallie-chait-57a4893
+    GitHub          : https://github.com/92UKRHUYCOEV/STIG-Remediation
+    Date Created    : 04-22-26
+    Last Modified   : 08-22-26
+    Version         : 1.1
     STIG-ID         : WN11-AU-000500
     Severity        : Medium (CAT II)
     Documentation   : https://stigaview.com/products/win11/v2r7/WN11-AU-000500/
