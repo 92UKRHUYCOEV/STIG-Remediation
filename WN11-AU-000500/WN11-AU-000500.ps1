@@ -16,7 +16,7 @@
     Version         : 1.1
     STIG-ID         : WN11-AU-000500
     Severity        : Medium (CAT II)
-    Documentation   : https://stigaview.com/products/win11/v2r8/WN11-AU-000500/
+    Reference       : https://stigaview.com/products/win11/v2r8/WN11-AU-000500/
 #>
 
 $regPath = "HKLM:\SOFTWARE\Policies\Microsoft\Windows\EventLog\Application"
