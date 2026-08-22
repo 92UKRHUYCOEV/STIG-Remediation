@@ -11,9 +11,9 @@
     Author          : Sallie Chait
     LinkedIn        : 
     GitHub          : 
-    Date Created    : 
-    Last Modified   : 
-    Version         : 1.0
+    Date Created    : 04-22-26
+    Last Modified   : 08-22-26
+    Version         : 1.1
     STIG-ID         : WN11-00-000031
     Severity        : High (CAT I)
     Documentation   : https://stigaview.com/products/win11/v2r7/WN11-00-000031/
