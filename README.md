@@ -10,7 +10,7 @@
 |---|---|
 | [WN11-00-000031](./WN11-00-000031/WN11-00-000031.ps1) | PowerShell remediation script |
 | [WN11-AU-000500](./WN11-AU-000500/WN11-AU-000500.ps1) | PowerShell remediation script |
-| [WN11-CC-000005](./WN11-CC-000005/WN11-CC-000005.ps1) | PowerShell remediation script |
+| [WN11-AU-000083](./WN11-AU-000083/WN11-AU-000083.ps1) | PowerShell remediation script |
 | [WN11-CC-000052](./WN11-CC-000052/WN11-CC-000052.ps1) | PowerShell remediation script |
 | [WN11-CC-000175](./WN11-CC-000175/WN11-CC-000175.ps1) | PowerShell remediation script |
 | [WN11-CC-000205](./WN11-CC-000205/WN11-CC-000205.ps1) | PowerShell remediation script |
