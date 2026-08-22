@@ -16,7 +16,7 @@
     Version         : 1.1
     STIG-ID         : WN11-00-000031
     Severity        : High (CAT I)
-    Reference       : https://stigaview.com/products/win11/v2r7/WN11-00-000031/
+    Reference       : https://stigaview.com/products/win11/v2r8/WN11-00-000031/
 #>
 
 $regPath = "HKLM:\SOFTWARE\Policies\Microsoft\FVE"
