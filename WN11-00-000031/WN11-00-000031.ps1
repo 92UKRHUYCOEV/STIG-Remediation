@@ -9,8 +9,8 @@
 
 .NOTES
     Author          : Sallie Chait
-    LinkedIn        : 
-    GitHub          : 
+    LinkedIn        : https://www.linkedin.com/in/sallie-chait-57a4893
+    GitHub          : https://github.com/92UKRHUYCOEV/STIG-Remediation
     Date Created    : 04-22-26
     Last Modified   : 08-22-26
     Version         : 1.1
