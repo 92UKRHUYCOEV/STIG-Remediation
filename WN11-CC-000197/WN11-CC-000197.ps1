@@ -14,11 +14,9 @@
     Date Created    : 04-22-26
     Last Modified   : 08-22-26
     Version         : 1.1
-    CVEs            : N/A
-    Plugin IDs      : N/A
     STIG-ID         : WN11-CC-000197
     Severity        : Low (CAT III)
-    Reference       : https://stigaview.com/products/win11/v2r7/WN11-CC-000197/
+    Reference       : https://stigaview.com/products/win11/v2r8/WN11-CC-000197/
 #>
 
 $regPath = "HKLM:\SOFTWARE\Policies\Microsoft\Windows\CloudContent"
